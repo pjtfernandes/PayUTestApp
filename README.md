@@ -1,4 +1,4 @@
-PayUTestApp
+PayU Example Android App South Africa
 ===========
 
 This Android Studio Projects makes use of the Integration: Redirect Payment Page (RPP) method PayU suggests.
